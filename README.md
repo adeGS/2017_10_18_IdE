@@ -7,4 +7,4 @@
 
 ## Observaciones
 1. Parece fácil
-2. 
+2. Espero que vaya bien
