@@ -11,7 +11,10 @@
 
 ## ESTO ES LO PRIMERO QUE AÑADO EN LOCAL:
 
-	. git status
-	. git add
-	. git commit
-	. git push
+	. git status // ¿ como estña el repo?
+	. git add // prepara ficheros
+	. git commit // toma instantánea
+	. git push// sube código a origin (remoto)
+	
+	
+	. git init // cra repositorio, directorio ".git"
